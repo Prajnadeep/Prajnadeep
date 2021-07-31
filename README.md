@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Architectural design patterns
-- 💬 Ask me about ...
+- 💬 Ask me about something cool ?!
 - 📫 How to reach me: pragya.2366@gmail.com
 - ⚡ Fun fact: Android’s logo isn’t actually called Android. Google unofficially calls him Bugdroid 🤖
