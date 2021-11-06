@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Android’s logo isn’t actually called Android. Google unofficially calls him Bugdroid 🤖
 
 
-![image](https://github-readme-stats.vercel.app/api?username=Prajnadeep)
+![image](https://github-readme-stats.vercel.app/api?username=Prajnadeep&show_icons=true&count_private=true&theme=dark)
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
