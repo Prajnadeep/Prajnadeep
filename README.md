@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Architectural design patterns
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning System Architecture 
 - 💬 Ask me about something cool ?!
 - 📫 How to reach me: pragya.2366@gmail.com
 - ⚡ Fun fact: Android’s logo isn’t actually called Android. Google unofficially calls him Bugdroid 🤖
