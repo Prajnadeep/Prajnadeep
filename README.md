@@ -6,4 +6,4 @@ Currently building: event-driven systems, notification pipelines, and integratio
 
 **Stack I live in:** Scala · Akka · Play · Python · FastAPI · PostgreSQL · Redis Streams
 
-🌐 [prajnadeep.me](https://prajnadeep.me) · 📫 pragya.2366@gmail.com
+· 📫 pragya.2366@gmail.com
