@@ -1,9 +1,11 @@
 # Hey, I'm Prajnadeep 👋
 
-Backend engineer who keeps the 🌊 flowing — messages delivered, APIs up, Redis streams humming.
+Backend engineer; I care about latency, correctness, and systems that don't wake you up at 3am.
 
-Currently building: event-driven systems, notification pipelines, and integrations that actually work at scale.
+Obsessed with systems that scale quietly and fail loudly.
 
 **Stack I live in:** Scala · Akka · Play · Python · FastAPI · PostgreSQL · Redis Streams
 
-· 📫 pragya.2366@gmail.com
+Building [Dresad.com](https://dresad.com) 🚀
+
+You can reach me at pragya.2366@gmail.com
